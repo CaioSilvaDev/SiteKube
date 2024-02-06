@@ -1,7 +1,6 @@
 
 
-Agência de Marketing, Design e Desenvolvimento
-Bem-vindo ao repositório do site da nossa agência de Marketing, Design e Desenvolvimento. Este projeto foi desenvolvido utilizando HTML, Bootstrap e Javascript para proporcionar uma experiência moderna e atraente aos visitantes.
+Este projeto foi desenvolvido utilizando HTML, Bootstrap e Javascript para proporcionar uma experiência moderna e atraente aos visitantes.
 
 Tecnologias Utilizadas
 HTML: Linguagem de marcação utilizada para estruturar o conteúdo do site.
